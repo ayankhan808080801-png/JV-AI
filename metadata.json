@@ -1,0 +1,6 @@
+{
+  "name": "JV AI",
+  "description": "Powerful AI Assistant for Voice Phone Control, Chat, Vision, OCR, and Smart Device Automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
